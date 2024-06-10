@@ -5,8 +5,8 @@ plugins:
 
 navigation:
   - title: "Introduction"
-    url: /prueba_io/introduction
+    url: /prueba_io/introduction.html
   - title: "Chapter 1"
-    url: /prueba_io/chapter1
+    url: /prueba_io/chapter1.html
   - title: "Chapter 2"
-    url: /prueba_io/chapter2
+    url: /prueba_io/chapter2.html
