@@ -1,3 +1,3 @@
-# Welcome to CursoR2024
+# Welcome
 
-This is the main page for the CursoR2024. Use the navigation bar to access different sections of the course.
+This is the main page Use the navigation bar to access different sections of the course.
