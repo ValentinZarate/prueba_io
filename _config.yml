@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 
 navigation:
   - title: "Introduction"
-    url: /introduction
+    url: /prueba_io/introduction
   - title: "Chapter 1"
-    url: /chapter1
+    url: /prueba_io/chapter1
   - title: "Chapter 2"
-    url: /chapter2
+    url: /prueba_io/chapter2
