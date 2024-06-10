@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+plugins:
+  - jekyll-seo-tag
+
 navigation:
   - title: "Introduction"
     url: /prueba_io/introduction
