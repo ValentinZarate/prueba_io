@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+
+navigation:
+  - title: "Introduction"
+    url: /introduction
+  - title: "Chapter 1"
+    url: /chapter1
+  - title: "Chapter 2"
+    url: /chapter2
